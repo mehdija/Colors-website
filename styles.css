@@ -1,23 +1,15 @@
 h1{
-
     color: red;
-
-}
+  }
 
 h2{
- 
- color: #0000FF;
-  
-}
+    color: #0000FF;
+  }
 
 h3{
-
     color: rgb(0, 0, 0);
-
-}
+  }  
 
 h4{
-
     color: hsl(30, 40%, 40%);
-
-}
+   }
